@@ -1,4 +1,4 @@
-package com.lihthub.simpletodo.pojo;
+package io.github.lihthub.simpletodo.pojo;
 
 /**
  * @author lihaitao

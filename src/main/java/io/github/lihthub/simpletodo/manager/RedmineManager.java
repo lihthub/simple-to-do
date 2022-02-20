@@ -1,4 +1,4 @@
-package com.lihthub.simpletodo.manager;
+package io.github.lihthub.simpletodo.manager;
 
 /**
  * @author lihaitao

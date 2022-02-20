@@ -11,6 +11,12 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: io.github.vincenzopalazzo:material-ui-swing:1.1.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.swinglabs:swingx:1.6.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.jhlabs:filters:2.0.235" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.swinglabs:swing-worker:1.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.github.jiconfont:jiconfont-swing:1.0.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.github.jiconfont:jiconfont:1.0.0" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jgit:org.eclipse.jgit:3.5.0.201409260305-r" level="project" />
     <orderEntry type="library" name="Maven: com.jcraft:jsch:0.1.50" level="project" />
     <orderEntry type="library" name="Maven: com.googlecode.javaewah:JavaEWAH:0.7.9" level="project" />

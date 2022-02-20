@@ -1,4 +1,4 @@
-package com.lihthub.simpletodo.service;
+package io.github.lihthub.simpletodo.service;
 
 /**
  * @author lihaitao
