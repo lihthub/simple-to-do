@@ -10,9 +10,9 @@
     <version>1.0</version>
 
     <properties>
-        <java.version>8</java.version>
+        <java.version>17</java.version>
         <hutool.version>5.7.21</hutool.version>
-        <fastjson.version>1.2.78</fastjson.version>
+        <fastjson2.version>2.0.24</fastjson2.version>
         <lombok.version>1.16.16</lombok.version>
         <jgit.version>3.5.0.201409260305-r</jgit.version>
     </properties>
@@ -34,15 +34,9 @@
             <version>${hutool.version}</version>
         </dependency>
         <dependency>
-            <groupId>com.alibaba</groupId>
-            <artifactId>fastjson</artifactId>
-            <version>${fastjson.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>${lombok.version}</version>
-            <scope>provided</scope>
+            <groupId>com.alibaba.fastjson2</groupId>
+            <artifactId>fastjson2</artifactId>
+            <version>${fastjson2.version}</version>
         </dependency>
     </dependencies>
 
